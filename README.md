@@ -1,4 +1,5 @@
 ## account-authentication
+lets test bcrypt
 ## first things first
 Run the program, "python3 mypass.py", simple right?
 We can create an account by entering 1 into the input field, in this example I will be using the username: __hank__ AND the password: __hill__ 
