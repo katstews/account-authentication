@@ -10,8 +10,6 @@ Sweet. We just successfully added our username and password into our mythical "d
 
 <img width="531" alt="Screenshot 2023-05-16 at 9 36 23 PM" src="https://github.com/katstews/account-authentication/assets/112781868/ca561a2e-4fe9-474b-a0e3-9ecc35f2ad7b">
 
-<br> 
-
 another case to make sure it works, I will enter username: __hank__ with password: __propane__ ... 
 <img width="531" alt="Screenshot 2023-05-16 at 9 36 23 PM" src="https://github.com/katstews/account-authentication/assets/112781868/72bf0de7-5335-4173-8265-22c0f8a39703">
 it works! 
